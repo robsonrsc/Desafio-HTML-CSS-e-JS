@@ -1,0 +1,100 @@
+
+
+
+h1 {
+    
+    color: yellow;
+    background-image: url("C:\Users\robso\Desktop\Certificações\E2E treinamentos\HTML CSS\desafio anderson\foguete.jpg"
+
+    
+    
+    );
+   
+}
+
+ #sub {
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+
+ }
+
+ body {
+
+    color: rgb(226, 2, 2);
+
+    background-color: rgba(108, 108, 202, 0.123);
+    display: table-cell;
+    vertical-align: middle;
+    text-align: justify;
+    height: 600px;
+    width: 1200px;
+ }
+
+ html {
+    
+    
+    display: table ;
+    margin: auto;
+ }
+
+ #frase {
+
+    text-align: left;
+    font-size: 25px;
+    color: red;
+
+ }
+#autor {
+
+        font-style: italic;
+        font-size: 15px;
+        color: navy;
+
+    }
+
+    h3 {
+
+        color: black);
+        font-size: 30px;
+        font-style: oblique;
+        text-align: center;
+    }
+
+    ul {
+
+        font-size: 20px;
+        font-style: italic;
+    }
+ #desafio {
+
+    color: thistle;
+    text-align: left;
+ }
+ 
+ button{
+
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+ 
+    background-color: red;
+    border-radius: 15px;
+ }
+
+ .promo {
+
+    width: 200px;
+    height: auto;
+ }
+
+ img {
+
+    border-radius: 15px;
+    width: 300px;
+    height: auto;
+ }
+
+
+
+
